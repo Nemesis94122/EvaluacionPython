@@ -1,0 +1,10 @@
+{
+    "H001": {
+        "id_herramienta": "H001",
+        "nombre": "Taladro Percutor",
+        "fecha_inicio_reparacion": "2026-08-18",
+        "fecha_estimada_de_finalizacion": "2026-08-25",
+        "observaciones": "Fallo en el mandril de sujeción y sobrecalentamiento del motor.",
+        "estado_registro": "Abierto"
+    }
+}
